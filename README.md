@@ -43,5 +43,5 @@ This task involves exploring ideas to improve the predictive models trained so f
 5.2 Summary and New Ideas: A summary is provided, outlining the understanding of the problem and the results obtained from the predictive modeling tasks. Ideas for further improvement of the best model are presented, including feature selection, feature re-scaling, creation of new features, model combination, or leveraging domain knowledge. Code is implemented to train and evaluate the proposed models, and the findings are summarized.
 
 # Authors:
-Paul O'Donovan - paul-od24
+Paul O'Donovan - paul-od24 <br>
 David Mallon - D-Mallon
